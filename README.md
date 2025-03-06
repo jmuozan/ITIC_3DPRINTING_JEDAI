@@ -1,3 +1,5 @@
+http://academy.cba.mit.edu/classes/scanning_printing/index.html
+
 ## 3D Printing Workshop for Beginners
 
 ### Workshop Structure (2 hours total)

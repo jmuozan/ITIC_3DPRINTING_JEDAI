@@ -68,6 +68,18 @@ Altra opció *Open Source*.
 
 ![](./IMG/PROGRAMARI/slicedapple.png)
 
+<div style="display: flex; gap: 10px;">
+  <img src="./IMG/PROGRAMARI/smooth.png" width="49%" />
+  <img src="./IMG/PROGRAMARI/wireframe.png" width="49%" />
+</div>
+
+![](./IMG/PROGRAMARI/wirepersp.png)
+
+![](./IMG/PROGRAMARI/SLICE2PRINT.png)
+
+
+
+
 
 
 

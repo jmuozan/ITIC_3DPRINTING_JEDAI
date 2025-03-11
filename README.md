@@ -2,8 +2,10 @@
 
 
 ## processos subtractius vs additius
-
-![](IMG/VIDEO_CNC.gif) ![](IMG/ROBOT.gif)
+<div style="display: flex; gap: 10px;">
+  <img src="IMG/VIDEO_CNC.gif" width="49%" />
+  <img src="IMG/ROBOT.gif" width="49%" />
+</div>
 
 impressió
    motivació motivació motivació

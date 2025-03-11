@@ -10,6 +10,7 @@
 # impressió 3D. Per qué mola??
 
   - Accessibilitat
+
 ![](IMG/reprap.gif)
 ![](IMG/father-child.png)
 
@@ -17,12 +18,10 @@
 [Abrief History of 3D Printing]
   - Sostenibilitat
 
-## Títol de la secció
-
-<video width="640" height="360" controls>
-  <source src="VIDEOS/Air-Max-1000.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div style="display: flex; gap: 10px;">
+  <img src="IMG/Nike.png" width="49%" />
+  <img src="IMG/Nikeprinting.gif" width="49%" />
+</div>
 
 [Zellerfeld](https://www.zellerfeld.com/)
 [Zellerfeld + Nike](https://about.nike.com/en/newsroom/releases/nike-sneaker-culture-complexcon)

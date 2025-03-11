@@ -64,6 +64,11 @@ Altra opció *Open Source*.
 
 
 
+## Programari per impressió
+
+![](./IMG/PROGRAMARI/slicedapple.png)
+
+
 
 
 ---

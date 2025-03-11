@@ -48,20 +48,20 @@
 
 ## Sobre la Impressió 3D
 
- - Tècniques dímpressió
+ - [Tècniques d'impressió 3D:](DOCUMENTS/TÈCNIQUES.md) Com s'imprimeix??
  
- - Materials
+ - [Materials:](DOCUMENTS/MATERIALS.md) Posibilitats materials
 
- - 3D: Aspectes essencials
+ - [3D, Aspectes essencials:](DOCUMENTS/MALLES.md) Qué cal tindre en compte
 
- - Programari
+ - [Programari:](DOCUMENTS/PROGRAMARI.md) Programes de modelat tridimensional i *slicing*
 
- - Slicing + gcode
+ - [Slicing + gcode:](DOCUMENTS/FORMATES.md) codi per fabricar, com és?
 
- - Errors habituals
+ - [Errors habituals:](DOCUMENTS/ERRORS.md) Exemples de errors a l'hora de fer impressions
 
 
-
+---
 <p align="left">
   <img alt="Light" src="./IMG/LOGOS/logoITICBCN.png" width="15%">
 &nbsp; &nbsp; &nbsp; &nbsp;

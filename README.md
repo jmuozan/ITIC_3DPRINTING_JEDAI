@@ -193,9 +193,9 @@ assignació assignació assignació assignació
 
 
 <p align="left">
-  <img alt="Light" src="./PAGE/IMG/LOGOS/logoITICBCN.png" width="15%">
+  <img alt="Light" src="./IMG/LOGOS/logoITICBCN.png" width="15%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="./PAGE/IMG/LOGOS/logo_CEB.png" width="15%">
+  <img alt="Dark" src="./IMG/LOGOS/logo_CEB.png" width="15%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="./PAGE/IMG/LOGOS/footer-logos-white.svg" width="55%">
+  <img alt="Dark" src="./IMG/LOGOS/footer-logos-white.svg" width="55%">
 </p>

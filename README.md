@@ -7,10 +7,10 @@
   <img src="IMG/ROBOT.gif" width="49%" />
 </div>
 
-# impressió 3D. Perqué mola??
+# impressió 3D. Per qué mola??
 
   - Accessibilitat
-
+![](IMG/reprap.gif)
   - Sostenibilitat
 
   - Personalitazació (Empoderament dels usuaris)

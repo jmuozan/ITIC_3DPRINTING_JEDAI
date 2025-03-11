@@ -62,7 +62,7 @@
 
  - [Slicing + gcode:](DOCUMENTS/FORMATES.md) codi per fabricar, com és?
 
-##  Imprimim??
+## Imprimim??
 
 ---
 <p align="left">

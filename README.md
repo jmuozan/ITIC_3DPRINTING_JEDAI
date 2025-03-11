@@ -48,11 +48,11 @@
 
 ## Sobre la Impressió 3D
 
- - [Tècniques d'impressió 3D:](DOCUMENTS/TÈCNIQUES.md) Com s'imprimeix??
+ - [Tècniques d'impressió 3D:](DOCUMENTS/1_TÈCNIQUES.md) Com s'imprimeix??
  
  - [Materials:](DOCUMENTS/MATERIALS.md) Posibilitats materials
 
- - [Errors habituals:](DOCUMENTS/ERRORS.md) Exemples d'errors i restriccions d'impressió
+ - [Errors i restriccions habituals:](DOCUMENTS/2_ERRORS+RESTRICCIONS.md) Exemples d'errors i restriccions d'impressió
 
  - [Programari:](DOCUMENTS/PROGRAMARI.md) Programes de modelat tridimensional i *slicing*
 

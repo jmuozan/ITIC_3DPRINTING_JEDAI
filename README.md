@@ -46,7 +46,7 @@
 
 [Hotels per insectes](https://www.3dwasp.com/en/3d-printed-ceramic-sculptures-to-house-insects/)
 
-## Sobre la Impressió 3D
+## Sobre la Impressió 3D: Qué farem al workshop?
 
  - [Tècniques d'impressió 3D:](DOCUMENTS/1_TÈCNIQUES.md) Com s'imprimeix??
  
@@ -62,7 +62,7 @@
 
  - [Slicing + gcode:](DOCUMENTS/FORMATES.md) codi per fabricar, com és?
 
-
+## Imprimim??
 
 ---
 <p align="left">

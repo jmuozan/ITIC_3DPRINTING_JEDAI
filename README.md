@@ -30,7 +30,12 @@
 [Zellerfeld + Nike](https://about.nike.com/en/newsroom/releases/nike-sneaker-culture-complexcon)
   - Personalitazació (Empoderament dels usuaris)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/b0eHpUR6F5I&t/0.jpg)](https://www.youtube.com/watch?v=b0eHpUR6F5I&t)
+[![IMAGE ALT TEXT HERE](IMG/action_figures.png)](https://www.youtube.com/watch?v=b0eHpUR6F5I&t)
+[3D Printing Your Favorite Heroes: Hasbro Does Mass Customization](https://formlabs.com/blog/formlabs-hasbro-3d-printing-mass-customization/)
+
+[![IMAGE ALT TEXT HERE](IMG/3dfilm.png)](https://www.youtube.com/watch?v=RLS_jA9s8J4&t)
+[Chase Me: A 3D printed film created on the Form 1+](https://formlabs.com/blog/chase-me-3d-printed-film/)
+
 
    restriccions
       fallada

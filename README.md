@@ -7,7 +7,15 @@
   <img src="IMG/ROBOT.gif" width="49%" />
 </div>
 
-impressió
+# impressió 3D. Perqué mola??
+
+  - Accessibilitat
+
+  - Sostenibilitat
+
+  - Personalitazació (Empoderament dels usuaris)
+
+
    motivació motivació motivació
       complexitat
       accés
@@ -179,3 +187,15 @@ assignació assignació assignació assignació
       - dissenyar i imprimir en 3D un objecte (petit, pocs cm3, limitat pel temps d'impressió)
          que no es podria fer de manera subtractiva
       - escanejar en 3D un objecte (i opcionalment imprimir-lo)
+
+
+
+
+
+<p align="left">
+  <img alt="Light" src="./PAGE/IMG/LOGOS/logoITICBCN.png" width="15%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="./PAGE/IMG/LOGOS/logo_CEB.png" width="15%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="./PAGE/IMG/LOGOS/footer-logos-white.svg" width="55%">
+</p>

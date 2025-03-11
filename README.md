@@ -36,7 +36,12 @@
 [![IMAGE ALT TEXT HERE](IMG/3dfilm.png)](https://www.youtube.com/watch?v=RLS_jA9s8J4&t)
 [Chase Me: A 3D printed film created on the Form 1+](https://formlabs.com/blog/chase-me-3d-printed-film/)
 
+<div style="display: flex; gap: 10px;">
+  <img src="IMG/hotels_1.png" width="49%" />
+  <img src="IMG/hotels_2.png" width="49%" />
+</div>
 
+[Hotels per insectes](https://www.3dwasp.com/en/3d-printed-ceramic-sculptures-to-house-insects/)
    restriccions
       fallada
       resolució

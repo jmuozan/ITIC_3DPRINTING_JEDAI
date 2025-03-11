@@ -22,15 +22,15 @@
   - Sostenibilitat
 
 <div style="display: flex; gap: 10px;">
-  <img src="IMG/Nike.png" height=400px />
-  <img src="IMG/Nikeprinting.gif" height=400px />
+  <img src="IMG/Nike.png" height=450px />
+  <img src="IMG/Nikeprinting.gif" height=450px />
 </div>
 
 [Zellerfeld](https://www.zellerfeld.com/)
 [Zellerfeld + Nike](https://about.nike.com/en/newsroom/releases/nike-sneaker-culture-complexcon)
   - Personalitazació (Empoderament dels usuaris)
 
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/b0eHpUR6F5I&t/0.jpg)](https://www.youtube.com/watch?v=b0eHpUR6F5I&t)
 
    restriccions
       fallada

@@ -77,6 +77,8 @@ Altra opció *Open Source*.
 
 ![](./IMG/PROGRAMARI/SLICE2PRINT.png)
 
+[FABACADEMY WEBSITE](https://fablabbcn-projects.gitlab.io/learning/educational-docs/fabacademy/classes/05-3DScanningandPrinting/)
+
 
 
 

@@ -3,12 +3,12 @@
 
 ## Processos subtractius vs additius
 
-![Processos subtractius vs additius](./IMG/subsvsadd.png)
-
 <div style="display: flex; gap: 10px;">
   <img src="IMG/VIDEO_CNC.gif" width="49%" />
   <img src="IMG/ROBOT.gif" width="49%" />
 </div>
+
+![Processos subtractius vs additius](./IMG/subsvsadd.png)
 
 # Impressió 3D. Per qué mola??
 

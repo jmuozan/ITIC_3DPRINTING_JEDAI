@@ -48,7 +48,13 @@
 
 ## Sobre la Impressió 3D
 
-![esquema]()
+    - Tècniques dímpressió
+    - Materials
+    - 3D: Aspectes essencials
+    - Programari
+    - Slicing + gcode
+    - Errors habituals
+
    restriccions
       fallada
       resolució

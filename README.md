@@ -11,6 +11,7 @@
 
   - Accessibilitat
 ![](IMG/reprap.gif)
+[RepRap selfreplicating](http://fab.cba.mit.edu/classes/865.18/replication/Jones.pdf)
   - Sostenibilitat
 
   - Personalitazació (Empoderament dels usuaris)

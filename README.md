@@ -54,7 +54,7 @@
 
  - [Errors i restriccions habituals:](DOCUMENTS/2_ERRORS+RESTRICCIONS.md) Exemples d'errors i restriccions d'impressió
 
- - [Programari:](DOCUMENTS/PROGRAMARI.md) Programes de modelat tridimensional i *slicing*
+ - [Programari:](DOCUMENTS/5_PROGRAMARI.md) Programes de modelat tridimensional i *slicing*
 
  - [On trobar models 3D?:](DOCUMENTS/PÀG3D.md) No vull modelar res només imprimir
 

@@ -10,7 +10,7 @@
 
 ![Processos subtractius vs additius](./IMG/subsvsadd.png)
 
-# Impressió 3D. Per qué mola??
+## Impressió 3D. Per qué mola??
 
   - Accessibilitat
 
@@ -52,13 +52,16 @@
  
  - [Materials:](DOCUMENTS/MATERIALS.md) Posibilitats materials
 
- - [3D, Aspectes essencials:](DOCUMENTS/MALLES.md) Qué cal tindre en compte
+ - [Errors habituals:](DOCUMENTS/ERRORS.md) Exemples d'errors i restriccions d'impressió
 
  - [Programari:](DOCUMENTS/PROGRAMARI.md) Programes de modelat tridimensional i *slicing*
 
+ - [On trobar models 3D?:](DOCUMENTS/PÀG3D.md) No vull modelar res només imprimir
+
+ - [3D, Aspectes essencials:](DOCUMENTS/MALLES.md) Qué cal tindre en compte a l'hora d'imprimir els meus arxius?
+
  - [Slicing + gcode:](DOCUMENTS/FORMATES.md) codi per fabricar, com és?
 
- - [Errors habituals:](DOCUMENTS/ERRORS.md) Exemples de errors a l'hora de fer impressions
 
 
 ---

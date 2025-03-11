@@ -1,7 +1,9 @@
 # Jornades JEDAI Taller d'Impressió 3D
 
 
-processos subtractius vs additius
+## processos subtractius vs additius
+
+![](IMG/VIDEO_CNC.gif) ![](IMG/ROBOT.gif)
 
 impressió
    motivació motivació motivació

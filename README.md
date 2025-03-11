@@ -1,13 +1,16 @@
 # Jornades JEDAI Taller d'Impressió 3D
 
 
-## processos subtractius vs additius
+## Processos subtractius vs additius
+
+![Processos subtractius vs additius](./IMG/subsvsadd.png)
+
 <div style="display: flex; gap: 10px;">
   <img src="IMG/VIDEO_CNC.gif" width="49%" />
   <img src="IMG/ROBOT.gif" width="49%" />
 </div>
 
-# impressió 3D. Per qué mola??
+# Impressió 3D. Per qué mola??
 
   - Accessibilitat
 
@@ -22,8 +25,8 @@
   - Sostenibilitat
 
 <div style="display: flex; gap: 10px;">
-  <img src="IMG/Nike.png" height=450px />
-  <img src="IMG/Nikeprinting.gif" height=450px />
+  <img src="IMG/Nike.png" height=470px />
+  <img src="IMG/Nikeprinting.gif" height=470px />
 </div>
 
 [Zellerfeld](https://www.zellerfeld.com/)
@@ -42,6 +45,10 @@
 </div>
 
 [Hotels per insectes](https://www.3dwasp.com/en/3d-printed-ceramic-sculptures-to-house-insects/)
+
+## Sobre la Impressió 3D
+
+![esquema]()
    restriccions
       fallada
       resolució

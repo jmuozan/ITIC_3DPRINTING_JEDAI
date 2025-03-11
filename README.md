@@ -1,69 +1,177 @@
-http://academy.cba.mit.edu/classes/scanning_printing/index.html
+# Jornades JEDAI Taller d'Impressió 3D
 
-## 3D Printing Workshop for Beginners
 
-### Workshop Structure (2 hours total)
+processos subtractius vs additius
 
-**Part 1: Introduction (20 minutes)**
-- Workshop overview and goals
-- Brief history of 3D printing (mention key developments like stereolithography)
-- Main strengths of 3D printing: geometric complexity, nested parts, reduced waste
-- Show some inspiring examples of 3D printed objects (clock, microscope, etc.)
+impressió
+   motivació motivació motivació
+      complexitat
+      accés
+      forma neta
+      residus
+   restriccions
+      fallada
+      resolució
+      temps
+      cost
+      materials materials
+         polímer:
+            PLA
+               polímer renovable d'origen vegetal
+               baixos volàtils, partícules fines
+               més fàcil d'imprimir
+               transició vítria ~60C
+               més fràgil
+            PETG
+               polímer reciclable d'origen petrolier
+               baixos volàtils, partícules fines
+               transició vítria ~80C
+               més resistent, millor resistència UV
+            PMMA, ABS, HIPS, TPU, PVA, ...
+         compost: metall, fusta
+         emmagatzematge: higroscòpic
+         configuracions
+         cicle de vida
+      certificació de ventilació
+      regles de disseny
+         tipus de suports
+            voladís FCStd jpg stl
+            separació FCStd jpg stl
+         sense suport
+            angle FCStd jpg stl
+            voladís FCStd jpg stl
+            pont FCStd jpg stl
+         gruix de paret FCStd jpg stl
+         dimensions FCStd jpg stl
+         anisotropia FCStd jpg stl
+         acabat superficial FCStd jpg stl
+         farciment FCStd jpg stl
+         conicitat, cantonada
+      desplaçament z, anivellament, mesurament
+      adhesió, deformació, bases, vores
+      post-processament galvanoplàstia
+   processos
+      estereolitografia làser DLP
+      modelat per deposició fosa (FDM)/fabricació de filament fos (FFF)
+         extrusora extrusió contornejat
+      DED, WAAM
+      injecció d'aglutinant
+      PolyJet
+      sinterització selectiva per làser
+      nano de dos fotons
+      bio
+      digital
+   màquines
+      RepRap autoreplicació
+      Ultimaker Z-Unlimited
+      Prusa peces XL color AFS 
+      Sainsmart
+      Bambu AMS peces color
+      Mosaic Palette
+      Elegoo
+      Formlabs
+         SLA peces Print the Legend Chase Me personalització massiva 
+         SLS peces
+      Stratasys J55 color
+      MTM InMachines Hangprinter eixos
+      E3D
+      Precious Plastic
+      Filastruder
+   materials
+      Proto-pasta
+      MatterHackers
+      NinjaTek
+      MachineableWax
+      The Virtual Foundry
+      teixit teixit
+      seguretat alimentària seguretat alimentària seguretat alimentària
+   oficines de serveis
+      granges d'impressió
+      Shapeways
+      JLCPCB
+      Ponoko
+      Additively
 
-**Part 2: 3D Printing Technologies (20 minutes)**
-- Focus primarily on FDM (Fused Deposition Modeling) as it's most accessible
-- Brief overview of other technologies (SLA, SLS, etc.)
-- Common materials for beginners (PLA as office-friendly and easy to print)
-- Safety considerations (ventilation, particle emissions)
+formats d'arxiu
+   STL
+      ASCII
+         solid nom_objecte
+            facet normal n1 n2 n3
+               outer loop
+                  vertex v11 v12 v13
+                  vertex v21 v22 v23
+                  vertex v31 v32 v33
+               endloop
+            endfacet
+            ...
+         endsolid nom_objecte
+      binari
+         capçalera ASCII de 80 bytes
+         enter de 32 bits nombre de facetes
+         registres de facetes de 50 bytes
+            floats IEEE de 32 bits
+            normal
+            vèrtexs 1,2,3
+            atribut de 2 bytes
+      regla de la mà dreta
+      normal (opcional)
+      (falta de) unitats
+      mida de l'arxiu
+   PLY
+   AMF 3MF
+   STEP
+   FAV
+   OBJ, 3ds, DXF
+   VRML, X3D
+   glTF
+   Alembic
+   FREP
+      camps de distància mostrejats adaptativament
+   vòxels
+      .vol, .gif, pila d'imatges
+      marxant cubs
+      impressió de vòxels
+   G-codes
+      imatges camins no planars arc voladissos capes de maons
 
-**Part 3: Design Rules for 3D Printing (30 minutes)**
-- Overhangs and support structures (the 45-degree rule)
-- Bridging capabilities
-- Wall thickness minimums
-- Clearances for moving parts
-- Print orientation and layer strength (anisotropic properties)
-- Infill patterns and density
-- Avoiding sharp corners
+programari
+   mallat
+      MeshLab netfabb meshmixer Geomagic
+   seccionament
+      ReplicatorG Skeinforge Slic3r PrusaSlicer Cura IceSL Kiri:Moto t43
+   impressió
+      Printrun OctoPrint Repetier
+   firmware
+      Klipper
+   compartir
+      Sketchfab Thingiverse Printables modelviewer
 
-**Part 4: From Design to Print (20 minutes)**
-- Common file formats (focus on STL)
-- Slicer software overview (Cura or PrusaSlicer)
-- Key slicer settings for beginners
-  - Layer height
-  - Infill percentage
-  - Print speed
-  - Bed adhesion (brims, rafts)
+escaneig
+   núvol de punts, triangulació, estanc, textura
+   il·luminació, fons, tractament de superfície
+   tomografia transformada de Radon micro-CT
+      Rigaku Lumafield
+   sonda escanejada
+   confocal
+   seccions serials
+   opacitat
+   digitalitzador
+   Fotogrametria
+      AliceVision Meshroom imatge
+      Luma AI Polycam KIRI Engine ReCap PhotoScan VisualSFM SCANN3D Qlone
+      OpenMVG COLMAP OpenScan escàner
+   speckle OpenKinect ReconstructMe
+   làser FabScan
+   llum estructurada codi Gray POP3
+   estèreo Ferret Pro escanejos
+   LIDAR Seeed TI Intel Matterport Scaniverse
+   escenari de llum escaneig fotorealista
+   SLAM
 
-**Part 5: Hands-on Activity (30 minutes)**
-- Design challenge: Create a simple object with features that would be difficult/impossible to make subtractively
-- Guide participants through a simplified design process
-
-### End Activity: "Design for 3D Printing Challenge"
-
-**Objective:** Create a simple keychain or small container that demonstrates at least one 3D printing-specific capability.
-
-**Options:**
-1. **Nested Keychain:** A keychain with a freely moving internal part (like a ball in a cage or spinning gear)
-2. **Interlocking Container:** A small box with a snap-fit or interlocking lid
-3. **Bridged Name Tag:** A name tag or sign with letters that "float" using bridging principles
-
-**Process:**
-1. Provide participants with a simple template in TinkerCAD or similar beginner-friendly software
-2. Walk them through adding one feature that demonstrates a unique 3D printing capability
-3. Have them export the STL file
-4. Demonstrate slicing the design with proper settings
-5. Either print a few examples during the workshop (if time permits) or arrange for printing after the workshop
-
-**Takeaways:**
-- Each participant leaves with a design file ready for printing
-- They understand at least one key design principle specific to 3D printing
-- They've experienced the complete workflow from design to print-ready file
-
-### Additional Workshop Tips:
-
-1. **Visual Aids:** Bring physical examples of successful and failed prints to demonstrate concepts
-2. **Handout:** Provide a simple reference sheet with design rules and common terms
-3. **Follow-up:** Offer resources for continued learning (online tutorials, local makerspaces)
-4. **Safety:** Emphasize proper ventilation and material handling
-
-This workshop structure gives beginners a solid foundation in 3D printing concepts while keeping the content accessible and engaging with a hands-on component. The end activity reinforces key learnings through practical application.
+assignació assignació assignació assignació
+   assignació de grup:
+      - provar les regles de disseny per a la(es) vostra(es) impressora(es) 3D
+   assignació individual:
+      - dissenyar i imprimir en 3D un objecte (petit, pocs cm3, limitat pel temps d'impressió)
+         que no es podria fer de manera subtractiva
+      - escanejar en 3D un objecte (i opcionalment imprimir-lo)

@@ -1,4 +1,4 @@
-# Programari
+# Programari
 
 ## Programari pel disseny 3D
 
@@ -6,9 +6,9 @@
 
 Programa *Open Source*, gratis i amb infinitat de recursos i tutorials (Curva d'aprenentatje elevada). Disponible a macos, windows i linux. 
 
-![Blender](DOCUMENTS/IMG/PROGRAMARI/BLENDER.png)
+![Blender](./IMG/PROGRAMARI/BLENDER.png)
 
-![Blender download](DOCUMENTS/IMG/PROGRAMARI/BLENDER_DOWNLOAD.png)
+![Blender download](./IMG/PROGRAMARI/BLENDER_DOWNLOAD.png)
 
 [Blender download](https://www.blender.org/download/)
 
@@ -16,9 +16,9 @@ Programa *Open Source*, gratis i amb infinitat de recursos i tutorials (Curva d'
 
 Preferència personal, prova d'acces de 90 dies donant el correu i una gran comunitat darrere. gran quantitat de reucrsos i *plug-ins* online. Disponible a macos i windows.
 
-![](DOCUMENTS/IMG/PROGRAMARI/RHINO.png)
+![](./IMG/PROGRAMARI/RHINO.png)
 
-![](DOCUMENTS/IMG/PROGRAMARI/RHINO_EVALUATION.png)
+![](./IMG/PROGRAMARI/RHINO_EVALUATION.png)
 
 [Prova Rhino](https://www.rhino3d.com/download/)
 

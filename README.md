@@ -11,7 +11,10 @@
 
   - Accessibilitat
 
-![](IMG/reprap.gif)
+<div style="display: flex; gap: 10px;">
+  <img src="IMG/reprap.gif" width="100%" />
+</div>
+
 ![](IMG/father-child.png)
 
 [RepRap selfreplicating](http://fab.cba.mit.edu/classes/865.18/replication/Jones.pdf)
@@ -29,11 +32,6 @@
 
 
 
-   motivació motivació motivació
-      complexitat
-      accés
-      forma neta
-      residus
    restriccions
       fallada
       resolució

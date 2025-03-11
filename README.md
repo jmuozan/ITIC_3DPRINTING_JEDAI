@@ -15,12 +15,12 @@
 ![](IMG/father-child.png)
 
 [RepRap selfreplicating](http://fab.cba.mit.edu/classes/865.18/replication/Jones.pdf)
-[Abrief History of 3D Printing]
+[reprap wiki](https://reprap.org/wiki/About)
   - Sostenibilitat
 
 <div style="display: flex; gap: 10px;">
-  <img src="IMG/Nike.png" width="49%" />
-  <img src="IMG/Nikeprinting.gif" width="49%" />
+  <img src="IMG/Nike.png" height=400px />
+  <img src="IMG/Nikeprinting.gif" height=400px />
 </div>
 
 [Zellerfeld](https://www.zellerfeld.com/)

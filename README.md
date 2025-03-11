@@ -10,11 +10,20 @@
 # impressió 3D. Per qué mola??
 
   - Accessibilitat
-![](IMG/reprap.gif)
+<div style="display: flex; gap: 10px;">
+  <img src="IMG/reprap.gif" width="49%" />
+  <img src="IMG/father-child.png" width="49%" />
+</div>
+
+
 [RepRap selfreplicating](http://fab.cba.mit.edu/classes/865.18/replication/Jones.pdf)
+[Abrief History of 3D Printing]
   - Sostenibilitat
 
+[Zellerfeld](https://www.zellerfeld.com/)
+[Zellerfeld + Nike video](https://youtu.be/l4qXAeMAWUI?si=PvnTOAAkGmDViJqm)
   - Personalitazació (Empoderament dels usuaris)
+
 
 
    motivació motivació motivació

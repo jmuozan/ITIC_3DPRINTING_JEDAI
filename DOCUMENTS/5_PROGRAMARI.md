@@ -66,7 +66,10 @@ Altra opció *Open Source*.
 
 ## Programari per impressió
 
-![](./IMG/PROGRAMARI/slicedapple.png)
+### *Meshes* / Malles
+
+
+
 
 <div style="display: flex; gap: 10px;">
   <img src="./IMG/PROGRAMARI/smooth.png" width="49%" />
@@ -75,10 +78,16 @@ Altra opció *Open Source*.
 
 ![](./IMG/PROGRAMARI/wirepersp.png)
 
+
+### Slicing
+
+![](./IMG/PROGRAMARI/slicedapple.png)
+
 ![](./IMG/PROGRAMARI/SLICE2PRINT.png)
 
 [FABACADEMY WEBSITE](https://fablabbcn-projects.gitlab.io/learning/educational-docs/fabacademy/classes/05-3DScanningandPrinting/)
 
+![](../IMG/Prusagcode.png)
 
 
 

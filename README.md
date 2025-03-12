@@ -1,5 +1,6 @@
 # Jornades JEDAI Taller d'Impressió 3D
 
+![](IMG/PRINT_TEST.gif)
 
 ## Processos subtractius vs additius
 
@@ -54,13 +55,11 @@
 
  - [Errors i restriccions habituals:](DOCUMENTS/2_ERRORS+RESTRICCIONS.md) Exemples d'errors i restriccions d'impressió
 
- - [Programari:](DOCUMENTS/5_PROGRAMARI.md) Programes de modelat tridimensional i *slicing*
-
  - [On trobar models 3D?:](DOCUMENTS/PÀG3D.md) No vull modelar res només imprimir
 
  - [3D, Aspectes essencials:](DOCUMENTS/MALLES.md) Qué cal tindre en compte a l'hora d'imprimir els meus arxius?
 
- - [Slicing + gcode:](DOCUMENTS/FORMATES.md) codi per fabricar, com és?
+ - [Programari:](DOCUMENTS/5_PROGRAMARI.md) Programes de modelat tridimensional i *slicing*
 
 ## Imprimim??
 

@@ -7,8 +7,8 @@
 ## Paste Printing
 
 <div style="display: flex; gap: 10px;">
-  <img src="IMG/CLAY_1.gif" width="49%" />
-  <img src="IMG/CLAY_2.gif" width="49%" />
+  <img src="IMG/MATERIALS/CLAY_1.gif" width="49%" />
+  <img src="IMG/MATERIALS/CLAY_2.gif" width="49%" />
 </div>
 
 

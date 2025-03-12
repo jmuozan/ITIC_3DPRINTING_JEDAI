@@ -1,6 +1,12 @@
 # Tècniques d'impressió 3D
 
+## FDM
 
+## Resina
+
+## Paste Printing
+
+## Impact Printing
 
 
 

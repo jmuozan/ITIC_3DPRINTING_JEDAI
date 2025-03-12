@@ -55,11 +55,11 @@
 
  - [Errors i restriccions habituals:](DOCUMENTS/2_ERRORS+RESTRICCIONS.md) Exemples d'errors i restriccions d'impressió
 
- - [On trobar models 3D?:](DOCUMENTS/PÀG3D.md) No vull modelar res només imprimir
-
- - [3D, Aspectes essencials:](DOCUMENTS/MALLES.md) Qué cal tindre en compte a l'hora d'imprimir els meus arxius?
+ - [On trobar models 3D?:](DOCUMENTS/4_PÀG3D.md) No vull modelar res només imprimir
 
  - [Programari:](DOCUMENTS/5_PROGRAMARI.md) Programes de modelat tridimensional i *slicing*
+
+ - [3D, Aspectes essencials:](DOCUMENTS/MALLES.md) Qué cal tindre en compte a l'hora d'imprimir els meus arxius?
 
 ## Imprimim??
 

@@ -4,6 +4,8 @@
 
 ## Resina
 
+
+
 ## Paste Printing
 
 <div style="display: flex; gap: 10px;">
@@ -16,10 +18,9 @@
 
 ## Impact Printing
 
+![](./IMG/TÈCNIQUES/impact.jpg)
 
-
-
-
+[ETH ZURICH](https://dfab.ch/news/impact-printing-wins-3d-pioneers-challenge)
 
 
 ---

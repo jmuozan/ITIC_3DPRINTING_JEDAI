@@ -30,12 +30,13 @@
   <img src="IMG/Nikeprinting.gif" height=470px />
 </div>
 
+[Zellerfeld](https://www.zellerfeld.com/)
+[Zellerfeld + Nike](https://about.nike.com/en/newsroom/releases/nike-sneaker-culture-complexcon)
+
+
 ![](IMG/3dpa.png)
 
 [IaaC 3DPA](https://iaac.net/3dpa-directors-explore-additive-manufacturing-in-construction/)
-
-[Zellerfeld](https://www.zellerfeld.com/)
-[Zellerfeld + Nike](https://about.nike.com/en/newsroom/releases/nike-sneaker-culture-complexcon)
   - Personalitazació (Empoderament dels usuaris)
 
 [![IMAGE ALT TEXT HERE](IMG/action_figures.png)](https://www.youtube.com/watch?v=b0eHpUR6F5I&t)

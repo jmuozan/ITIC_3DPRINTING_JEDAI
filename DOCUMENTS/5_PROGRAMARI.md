@@ -63,13 +63,9 @@ Altra opció *Open Source*.
 [FreeCAD](https://www.freecad.org/)
 
 
-
-## Programari per impressió
+## De bits a àtoms: Com imprimim?
 
 ### *Meshes* / Malles
-
-
-
 
 <div style="display: flex; gap: 10px;">
   <img src="./IMG/PROGRAMARI/smooth.png" width="49%" />
@@ -79,7 +75,15 @@ Altra opció *Open Source*.
 ![](./IMG/PROGRAMARI/wirepersp.png)
 
 
-### Slicing
+## Programari per impressió
+
+
+
+
+
+
+
+### *Slicing*
 
 ![](./IMG/PROGRAMARI/slicedapple.png)
 

@@ -75,23 +75,30 @@ Altra opció *Open Source*.
 ![](./IMG/PROGRAMARI/wirepersp.png)
 
 
-## Programari per impressió
-
-
-
-
-
-
-
 ### *Slicing*
 
 ![](./IMG/PROGRAMARI/slicedapple.png)
 
 ![](./IMG/PROGRAMARI/SLICE2PRINT.png)
 
-[FABACADEMY WEBSITE](https://fablabbcn-projects.gitlab.io/learning/educational-docs/fabacademy/classes/05-3DScanningandPrinting/)
+[Fabacademy BCN](https://fablabbcn-projects.gitlab.io/learning/educational-docs/fabacademy/classes/05-3DScanningandPrinting/)
+
+
+## Programari per impressió: *Slicers*
 
 ![](../IMG/Prusagcode.png)
+
+### Prusa Slicer
+
+![](./IMG/PROGRAMARI/PRUSA_SLICER.png)
+
+[Descarrega](https://www.prusa3d.com/page/prusaslicer_424/)
+
+### UltiMaker Cura
+
+![](./IMG/PROGRAMARI/ULTIMAKER.png)
+
+[Descarrega](https://ultimaker.com/software/ultimaker-cura/)
 
 
 

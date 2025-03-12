@@ -30,6 +30,10 @@
   <img src="IMG/Nikeprinting.gif" height=470px />
 </div>
 
+![](IMG/3dpa.png)
+
+[IaaC 3DPA](https://iaac.net/3dpa-directors-explore-additive-manufacturing-in-construction/)
+
 [Zellerfeld](https://www.zellerfeld.com/)
 [Zellerfeld + Nike](https://about.nike.com/en/newsroom/releases/nike-sneaker-culture-complexcon)
   - Personalitazació (Empoderament dels usuaris)

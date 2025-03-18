@@ -78,9 +78,5 @@
 </p>
 
 
-  - [x] Tecn
-  - [x] Mat
   - [ ] Errors
-  - [x] Pàg
-  - [x] Programari
   - [ ] Malles

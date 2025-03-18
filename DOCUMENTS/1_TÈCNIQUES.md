@@ -23,7 +23,6 @@
 </div>
 
 
-![](./IMG/MATERIALS/CLAY.jpeg)
 ![](./IMG/MATERIALS/pasta.jpeg)
 
 ## Impact Printing

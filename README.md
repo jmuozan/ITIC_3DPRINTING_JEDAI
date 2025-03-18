@@ -76,3 +76,11 @@
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Dark" src="./IMG/LOGOS/footer-logos-white.svg" width="55%">
 </p>
+
+
+  - [x] Tecn
+  - [ ] Mat
+  - [ ] Errors
+  - [ ] Pàg
+  - [ ] Programari
+  - [ ] Malles

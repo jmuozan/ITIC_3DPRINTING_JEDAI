@@ -1,13 +1,19 @@
 # Tècniques d'impressió 3D
 
-## FDM
+## FDM (Fused Deposition Modeling)
 
-## Resina
+![](./IMG/TÈCNIQUES/fdm.png)
+[The Complete Guide to FDM](https://desis.osu.edu/seniorthesis/index.php/2021/09/03/the-complete-guide-to-fused-deposition-modeling-fdm-in-3d-printing/)
+
+
+## SLA (Stereolithography)
+
+![](./IMG/TÈCNIQUES/sla.png)
+[Stereolithography wikipedia](https://en.wikipedia.org/wiki/Stereolithography)
 
 
 
 ## Paste Printing
-
 <div style="display: flex; gap: 10px;">
   <img src="IMG/MATERIALS/CLAY_1.gif" width="49%" />
   <img src="IMG/MATERIALS/CLAY_2.gif" width="49%" />

@@ -11,7 +11,10 @@
 ![](./IMG/TÈCNIQUES/sla.png)
 [Stereolithography wikipedia](https://en.wikipedia.org/wiki/Stereolithography)
 
+# SLS (selective laser sintering)
 
+![](./IMG/TÈCNIQUES/sls.png)
+[SLS](https://formlabs.com/es/blog/que-es-sinterizado-selectivo-laser/)
 
 ## Paste Printing
 <div style="display: flex; gap: 10px;">
@@ -21,6 +24,7 @@
 
 
 ![](./IMG/MATERIALS/CLAY.jpeg)
+![](./IMG/MATERIALS/pasta.jpeg)
 
 ## Impact Printing
 

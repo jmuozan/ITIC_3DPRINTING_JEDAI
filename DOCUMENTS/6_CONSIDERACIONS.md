@@ -3,21 +3,6 @@
       resolució
       temps
       cost
-      materials materials
-         polímer:
-            PLA
-               polímer renovable d'origen vegetal
-               baixos volàtils, partícules fines
-               més fàcil d'imprimir
-               transició vítria ~60C
-               més fràgil
-            PETG
-               polímer reciclable d'origen petrolier
-               baixos volàtils, partícules fines
-               transició vítria ~80C
-               més resistent, millor resistència UV
-            PMMA, ABS, HIPS, TPU, PVA, ...
-         compost: metall, fusta
          emmagatzematge: higroscòpic
          configuracions
          cicle de vida
@@ -50,30 +35,6 @@
       nano de dos fotons
       bio
       digital
-   màquines
-      RepRap autoreplicació
-      Ultimaker Z-Unlimited
-      Prusa peces XL color AFS 
-      Sainsmart
-      Bambu AMS peces color
-      Mosaic Palette
-      Elegoo
-      Formlabs
-         SLA peces Print the Legend Chase Me personalització massiva 
-         SLS peces
-      Stratasys J55 color
-      MTM InMachines Hangprinter eixos
-      E3D
-      Precious Plastic
-      Filastruder
-   materials
-      Proto-pasta
-      MatterHackers
-      NinjaTek
-      MachineableWax
-      The Virtual Foundry
-      teixit teixit
-      seguretat alimentària seguretat alimentària seguretat alimentària
    oficines de serveis
       granges d'impressió
       Shapeways

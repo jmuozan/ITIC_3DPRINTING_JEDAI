@@ -1,6 +1,6 @@
 # Materials
 
-##*Molta artenció a les consideracions del fabricant (temperatures de fusió, emmagatzematge...)
+## *Molta artenció a les consideracions del fabricant (temperatures de fusió, emmagatzematge...)
 
 - PLA:
     - polímer renovable d'origen vegetal

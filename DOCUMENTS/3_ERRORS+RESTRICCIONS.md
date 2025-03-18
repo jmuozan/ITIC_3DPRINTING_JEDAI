@@ -22,5 +22,5 @@
 [FabAcademy 3d printing week](https://academy.cba.mit.edu/classes/scanning_printing/index.html)
 
 ### Toleràncies
-
+![](./IMG/ERRORS/clearance.png)
 [clearance test](https://www.youtube.com/shorts/gc_7rT5UppU)

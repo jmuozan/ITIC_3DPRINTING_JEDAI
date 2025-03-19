@@ -64,7 +64,7 @@
 
  - [Programari:](DOCUMENTS/5_PROGRAMARI.md) Programes de modelat tridimensional i *slicing*
 
- - [3D, Aspectes essencials:](DOCUMENTS/6_CONSIDERACIONS.md) Qué cal tindre en compte a l'hora d'imprimir els meus arxius?
+ - [3D, Aspectes essencials:](DOCUMENTS/6_CONSIDERACIONS.md) Qu cal tindre en compte a l'hora d'imprimir els meus arxius?
 
 ## Imprimim??
 
@@ -76,7 +76,3 @@
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Dark" src="./IMG/LOGOS/footer-logos-white.svg" width="55%">
 </p>
-
-
-  - [ ] Errors
-  - [ ] Malles

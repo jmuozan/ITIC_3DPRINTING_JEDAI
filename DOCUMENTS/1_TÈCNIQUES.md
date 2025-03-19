@@ -31,7 +31,10 @@
 
 [ETH ZURICH](https://dfab.ch/news/impact-printing-wins-3d-pioneers-challenge)
 
+## Altres
 
+![](./IMG/TÈCNIQUES/Bra_1.jpg)
+[Neyla Coronel FitsYou](https://class.textile-academy.org/2025/neyla-coronel/development/05-First%20Prototypes/)
 ---
 <p align="left">
   <img alt="Light" src="../IMG/LOGOS/logoITICBCN.png" width="15%">

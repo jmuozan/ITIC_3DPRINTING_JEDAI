@@ -6,7 +6,7 @@
 
 ```.stl``` ```.obj``` ```.fbx``` ```.gltf``` ```.3mf```
 
-###Subdivisions
+### Subdivisions
 
 ![](./IMG/CONSIDERATIONS/cilindre.png)
 ![](./IMG/CONSIDERATIONS/cilindresub.png)

@@ -68,7 +68,6 @@
 
 ## Imprimim??
 
----
 <p align="left">
   <img alt="Light" src="./IMG/LOGOS/logoITICBCN.png" width="15%">
 &nbsp; &nbsp; &nbsp; &nbsp;

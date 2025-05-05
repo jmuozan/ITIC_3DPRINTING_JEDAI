@@ -1,6 +1,6 @@
 # FICHA TÉCNICA DE MODELO 3D
 
-## IES Barri del Carme - Tecnología 4º ESO
+## IES ____ - Tecnología 4º ESO
 
 ------
 
@@ -77,7 +77,7 @@
 *Describir brevemente para qué sirve el modelo y qué problema resuelve*
 
  
- 
+
  
 
 ### 5.2 Instrucciones de ensamblaje (si aplica)
@@ -85,7 +85,7 @@
 *Si el modelo consta de múltiples piezas, describir cómo se ensamblan*
 
  
- 
+
  
 
 ------
@@ -121,7 +121,7 @@
 *Anotar cualquier observación relevante tras la impresión: calidad, problemas encontrados, ajustes realizados, etc.*
 
  
- 
+
  
 
 ------

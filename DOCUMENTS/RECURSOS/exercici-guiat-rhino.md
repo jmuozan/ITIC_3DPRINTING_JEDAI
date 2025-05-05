@@ -4,7 +4,7 @@
 
 ## Peça de Lego
 
-![img](https://fablabbcn-projects.gitlab.io/learning/educational-docs/assets/lego_piece.jpg)
+<img src="https://fablabbcn-projects.gitlab.io/learning/educational-docs/assets/lego_piece.jpg" width="80%" alt="LEGO piece">
 
 
 

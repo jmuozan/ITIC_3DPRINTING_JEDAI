@@ -37,7 +37,7 @@
 - Prémer Entrar, Clic dret o Espai quan la finestra de Comandes està buida repetirà l'última comanda.
 - L'Historial de Comandes mostra comandes anteriors per a referència.
 
-### CPlà i Coordenades Mundials
+### CPlane i Coordenades Mundials
 - El Pla de Construcció (CPlà) defineix el pla de treball actiu per dibuixar i editar.
 - El Sistema de Coordenades Mundials és la referència global per a tots els objectes. Utilitza comandes de CPlà per ajustar el pla de treball.
 

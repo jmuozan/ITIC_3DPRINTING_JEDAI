@@ -105,20 +105,6 @@ Crear una lista impresa de comandos del teclado numérico para facilitar la nave
    - Cuando sea posible, proporcionar modelos físicos táctiles para complementar el trabajo digital
    - Permitir que el estudiante explore formas tridimensionales con las manos para mejorar la comprensión espacial
 
-## 5. Consideraciones adicionales
-
-### 5.1 Hardware complementario
-
-- Considerar monitores de mayor tamaño o resolución
-- Evaluar la posibilidad de usar tabletas gráficas (que permiten entrada más táctil)
-- Ratones con configuración de sensibilidad personalizada
-
-### 5.2 Software complementario
-
-- Explorar la posibilidad de usar software de magnificación de pantalla del sistema operativo
-- Integrar con lectores de pantalla cuando sea posible (actualmente limitado en Blender)
-- Considerar el uso de complementos de Blender que puedan simplificar ciertas tareas
-
 ---
 
 ## Recursos adicionales

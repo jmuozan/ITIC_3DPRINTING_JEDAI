@@ -1,18 +1,23 @@
 # Programari
 
-## Programari pel disseny 3D
+<details>
+<summary><h2>Programari pel disseny 3D</h2></summary>
 
-### Blender
+<details>
+<summary><h3>Blender</h3></summary>
 
-Programa *Open Source*, gratis i amb infinitat de recursos i tutorials (Curva d'aprenentatje elevada). Disponible a macos, windows i linux. 
+Programa *Open Source*, gratis i amb infinitat de recursos i tutorials (Curva d'aprenentatje elevada). Disponible a macos, windows i linux.
 
 ![Blender](./IMG/PROGRAMARI/BLENDER.png)
 
 ![Blender download](./IMG/PROGRAMARI/BLENDER_DOWNLOAD.png)
 
-[Blender download](https://www.blender.org/download/)
+- [Blender download](https://www.blender.org/download/)
 
-### Rhino3D
+</details>
+
+<details>
+<summary><h3>Rhino3D</h3></summary>
 
 Preferència personal, prova d'acces de 90 dies donant el correu i una gran comunitat darrere. gran quantitat de reucrsos i *plug-ins* online. Disponible a macos i windows.
 
@@ -20,11 +25,13 @@ Preferència personal, prova d'acces de 90 dies donant el correu i una gran comu
 
 ![](./IMG/PROGRAMARI/RHINO_EVALUATION.png)
 
-[Prova Rhino](https://www.rhino3d.com/download/)
+- [Prova Rhino](https://www.rhino3d.com/download/)
+- [Tutorial Rhino](https://youtu.be/lbWv1LVHdMg?si=ybskEmhKnH0EfLhi)
 
-[Ttorial Rhino](https://youtu.be/lbWv1LVHdMg?si=ybskEmhKnH0EfLhi)
+</details>
 
-### TINKERCAD
+<details>
+<summary><h3>TINKERCAD</h3></summary>
 
 Programa gratuit d'Autodesk focus educatiu. Molt simple i molts recursos d'autodesk.
 
@@ -32,9 +39,12 @@ Programa gratuit d'Autodesk focus educatiu. Molt simple i molts recursos d'autod
 
 ![](./IMG/PROGRAMARI/Tinker.png)
 
-[Tutorial TinkerCAD](https://www.youtube.com/results?search_query=tinkercad+tutrorial)
+- [Tutorial TinkerCAD](https://www.youtube.com/results?search_query=tinkercad+tutrorial)
 
-### SKETCHUP
+</details>
+
+<details>
+<summary><h3>SKETCHUP</h3></summary>
 
 Versió web gratis, permet descarregar els models en format ```.stl```. Versió web limitada. Molt senzill aprendre'l
 
@@ -42,30 +52,39 @@ Versió web gratis, permet descarregar els models en format ```.stl```. Versió 
 
 ![](./IMG/PROGRAMARI/SKETCHUP.png)
 
-[](https://www.sketchup.com/en/plans-and-pricing/sketchup-free)
+- [SketchUp Free](https://www.sketchup.com/en/plans-and-pricing/sketchup-free)
 
-### FUSION360
+</details>
+
+<details>
+<summary><h3>FUSION360</h3></summary>
 
 Software paramètric d'Autodesk. Senzill aprendre'l però amb opcions molt avançades. Versió limitada per a hobbistes gratis (no comercial) i versió completa per estudiants. Tot el contiungut queda guardat al núvol.
 
 ![](./IMG/PROGRAMARI/FUSION360.png)
 
-[](https://www.autodesk.com/campaigns/fusion-360/download)
+- [Fusion 360 download](https://www.autodesk.com/campaigns/fusion-360/download)
 
-![]()
+</details>
 
-### FREECAD
+<details>
+<summary><h3>FREECAD</h3></summary>
 
-Altra opció *Open Source*. 
+Altra opció *Open Source*.
 
 ![](./IMG/PROGRAMARI/FREECAD.png)
 
-[FreeCAD](https://www.freecad.org/)
+- [FreeCAD](https://www.freecad.org/)
 
+</details>
 
-## De bits a àtoms: Com imprimim?
+</details>
 
-### *Meshes* / Malles
+<details>
+<summary><h2>De bits a àtoms: Com imprimim?</h2></summary>
+
+<details>
+<summary><h3>Meshes / Malles</h3></summary>
 
 <div style="display: flex; gap: 10px;">
   <img src="./IMG/PROGRAMARI/smooth.png" width="49%" />
@@ -74,42 +93,51 @@ Altra opció *Open Source*.
 
 ![](./IMG/PROGRAMARI/wirepersp.png)
 
+</details>
 
-### *Slicing*
+<details>
+<summary><h3>Slicing</h3></summary>
 
 ![](./IMG/PROGRAMARI/slicedapple.png)
 
 ![](./IMG/PROGRAMARI/SLICE2PRINT.png)
 
-[Fabacademy BCN](https://fablabbcn-projects.gitlab.io/learning/educational-docs/fabacademy/classes/05-3DScanningandPrinting/)
+- [Fabacademy BCN](https://fablabbcn-projects.gitlab.io/learning/educational-docs/fabacademy/classes/05-3DScanningandPrinting/)
 
+</details>
 
-## Programari per impressió: *Slicers*
+</details>
+
+<details>
+<summary><h2>Programari per impressió: Slicers</h2></summary>
 
 ![](../IMG/Prusagcode.png)
 
-### Prusa Slicer
+<details>
+<summary><h3>Prusa Slicer</h3></summary>
 
 ![](./IMG/PROGRAMARI/PRUSA_SLICER.png)
 
-[Descarrega](https://www.prusa3d.com/page/prusaslicer_424/)
+- [Descarrega](https://www.prusa3d.com/page/prusaslicer_424/)
 
-### UltiMaker Cura
+</details>
+
+<details>
+<summary><h3>UltiMaker Cura</h3></summary>
 
 ![](./IMG/PROGRAMARI/ULTIMAKER.png)
 
-[Descarrega](https://ultimaker.com/software/ultimaker-cura/)
+- [Descarrega](https://ultimaker.com/software/ultimaker-cura/)
 
+</details>
 
-
-
-
+</details>
 
 ---
 <p align="left">
   <img alt="Light" src="../IMG/LOGOS/logoITICBCN.png" width="15%">
-&nbsp; &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Dark" src="../IMG/LOGOS/logo_CEB.png" width="15%">
-&nbsp; &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Dark" src="../IMG/LOGOS/footer-logos-white.svg" width="55%">
 </p>

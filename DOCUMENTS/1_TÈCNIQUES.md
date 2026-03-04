@@ -22,6 +22,7 @@
 <summary><h2>SLS (Selective Laser Sintering)</h2></summary>
 
 ![](./IMG/TÈCNIQUES/sls.png)
+![](../IMG/sls.jpg)
 
 - [SLS](https://formlabs.com/es/blog/que-es-sinterizado-selectivo-laser/)
 

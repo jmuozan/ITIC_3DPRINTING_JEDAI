@@ -6,7 +6,8 @@
 
 ---
 
-## Processos subtractius vs additius
+<details>
+<summary><h2>Processos subtractius vs additius</h2></summary>
 
 <div style="display: flex; gap: 10px;">
   <img src="IMG/VIDEO_CNC.gif" width="49%" />
@@ -15,11 +16,13 @@
 
 ![Processos subtractius vs additius](./IMG/subsvsadd.png)
 
----
+</details>
 
-## Impressió 3D. Per qué mola?
+<details>
+<summary><h2>Impressió 3D. Per qué mola?</h2></summary>
 
-### Accessibilitat
+<details>
+<summary><h3>Accessibilitat</h3></summary>
 
 <div style="display: flex; gap: 10px;">
   <img src="IMG/reprap.gif" width="100%" />
@@ -30,9 +33,10 @@
 - [RepRap selfreplicating](http://fab.cba.mit.edu/classes/865.18/replication/Jones.pdf)
 - [RepRap wiki](https://reprap.org/wiki/About)
 
----
+</details>
 
-### Sostenibilitat
+<details>
+<summary><h3>Sostenibilitat</h3></summary>
 
 <div style="display: flex; gap: 10px;">
   <img src="IMG/Nike.png" height=470px />
@@ -46,9 +50,10 @@
 
 - [IaaC 3DPA](https://iaac.net/3dpa-directors-explore-additive-manufacturing-in-construction/)
 
----
+</details>
 
-### Personalització (Empoderament dels usuaris)
+<details>
+<summary><h3>Personalització (Empoderament dels usuaris)</h3></summary>
 
 [![Hasbro action figures](IMG/action_figures.png)](https://www.youtube.com/watch?v=b0eHpUR6F5I&t)
 
@@ -65,9 +70,12 @@
 
 - [Hotels per insectes](https://www.3dwasp.com/en/3d-printed-ceramic-sculptures-to-house-insects/)
 
----
+</details>
 
-## Sobre la Impressió 3D: Qué farem al workshop?
+</details>
+
+<details>
+<summary><h2>Sobre la Impressió 3D: Qué farem al workshop?</h2></summary>
 
 - [Tècniques d'impressió 3D](DOCUMENTS/1_TÈCNIQUES.md) — Com s'imprimeix?
 - [Materials](DOCUMENTS/2_MATERIALS.md) — Possibilitats materials
@@ -76,9 +84,10 @@
 - [Programari](DOCUMENTS/5_PROGRAMARI.md) — Programes de modelat tridimensional i *slicing*
 - [3D, Aspectes essencials](DOCUMENTS/6_CONSIDERACIONS.md) — Què cal tenir en compte a l'hora d'imprimir els meus arxius?
 
----
+</details>
 
-## Imprimim?
+<details>
+<summary><h2>Imprimim?</h2></summary>
 
 <p align="left">
   <img alt="ITIC Barcelona" src="./IMG/LOGOS/logoITICBCN.png" width="15%">
@@ -87,3 +96,5 @@
   &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Logos" src="./IMG/LOGOS/footer-logos-white.svg" width="55%">
 </p>
+
+</details>

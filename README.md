@@ -83,14 +83,12 @@
 <details>
 <summary><h2>Sobre la Impressió 3D: Qué farem al workshop?</h2></summary>
 
-- [Tècniques d'impressió 3D](DOCUMENTS/1_TÈCNIQUES.md) — Com s'imprimeix?
-- [Materials](DOCUMENTS/2_MATERIALS.md) — Possibilitats materials
-- [Errors i restriccions habituals](DOCUMENTS/3_ERRORS+RESTRICCIONS.md) — Exemples d'errors i restriccions d'impressió
-- [On trobar models 3D?](DOCUMENTS/4_PÀG3D.md) — No vull modelar res, només imprimir
-- [Programari](DOCUMENTS/5_PROGRAMARI.md) — Programes de modelat tridimensional i *slicing*
-- [3D, Aspectes essencials](DOCUMENTS/6_CONSIDERACIONS.md) — Què cal tenir en compte a l'hora d'imprimir els meus arxius?
-
-</details>
+### [Tècniques d'impressió 3D](DOCUMENTS/1_TÈCNIQUES.md) — Com s'imprimeix?
+### [Materials](DOCUMENTS/2_MATERIALS.md) — Possibilitats materials
+### [Errors i restriccions habituals](DOCUMENTS/3_ERRORS+RESTRICCIONS.md) — Exemples d'errors i restriccions d'impressió
+### [On trobar models 3D?](DOCUMENTS/4_PÀG3D.md) — No vull modelar res, només imprimir
+### [Programari](DOCUMENTS/5_PROGRAMARI.md) — Programes de modelat tridimensional i *slicing*
+### [3D, Aspectes essencials](DOCUMENTS/6_CONSIDERACIONS.md) — Què cal tenir en compte a l'hora d'imprimir els meus arxius?
 
 <summary><h2>Imprimim?</h2></summary>
 

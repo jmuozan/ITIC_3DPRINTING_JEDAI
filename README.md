@@ -69,6 +69,13 @@
 
 - [Hotels per insectes](https://www.3dwasp.com/en/3d-printed-ceramic-sculptures-to-house-insects/)
 
+<div style="display: flex; gap: 10px;">
+  <img src="IMG/tristan_1.JPG" width="49%" />
+  <img src="IMG/tristan_2.JPG" width="49%" />
+</div>
+
+- [Òpera Tristan und Isolde](https://www.liceubarcelona.cat/en/tristan-und-isolde)
+
 </details>
 
 </details>

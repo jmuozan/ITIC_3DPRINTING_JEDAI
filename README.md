@@ -1,6 +1,8 @@
 # Jornades JEDAI Taller d'Impressió 3D
 
-![](IMG/PRINT_TEST.gif)
+<div style="display: flex; gap: 10px;">
+  <img src="IMG/PRINT_TEST.gif" width="50%" />
+</div>
 
 ## Processos subtractius vs additius
 

@@ -15,7 +15,7 @@
 
 ## Impressió 3D. Per qué mola??
 
-  - Accessibilitat
+### Accessibilitat
 
 <div style="display: flex; gap: 10px;">
   <img src="IMG/reprap.gif" width="100%" />
@@ -25,7 +25,7 @@
 
 [RepRap selfreplicating](http://fab.cba.mit.edu/classes/865.18/replication/Jones.pdf)
 [reprap wiki](https://reprap.org/wiki/About)
-  - Sostenibilitat
+### Sostenibilitat
 
 <div style="display: flex; gap: 10px;">
   <img src="IMG/Nike.png" height=470px />
@@ -39,7 +39,7 @@
 ![](IMG/3dpa.png)
 
 [IaaC 3DPA](https://iaac.net/3dpa-directors-explore-additive-manufacturing-in-construction/)
-  - Personalitazació (Empoderament dels usuaris)
+### Personalitazació (Empoderament dels usuaris)
 
 [![IMAGE ALT TEXT HERE](IMG/action_figures.png)](https://www.youtube.com/watch?v=b0eHpUR6F5I&t)
 [3D Printing Your Favorite Heroes: Hasbro Does Mass Customization](https://formlabs.com/blog/formlabs-hasbro-3d-printing-mass-customization/)

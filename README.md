@@ -86,7 +86,6 @@
 
 </details>
 
-<details>
 <summary><h2>Imprimim?</h2></summary>
 
 <p align="left">
@@ -96,5 +95,3 @@
   &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Logos" src="./IMG/LOGOS/footer-logos-white.svg" width="55%">
 </p>
-
-</details>

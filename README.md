@@ -1,7 +1,7 @@
 # Jornades JEDAI — Taller d'Impressió 3D
 
 <div style="display: flex; gap: 10px;">
-  <img src="IMG/PRINT_TEST.gif" height="5%" />
+  <img src="IMG/PRINT_TEST.gif" width="20%"/>
   <img src="IMG/print.gif" width="55%">
 </div>
 

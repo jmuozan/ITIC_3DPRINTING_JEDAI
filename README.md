@@ -90,7 +90,7 @@
 ### [Programari](DOCUMENTS/5_PROGRAMARI.md) — Programes de modelat tridimensional i *slicing*
 ### [3D, Aspectes essencials](DOCUMENTS/6_CONSIDERACIONS.md) — Què cal tenir en compte a l'hora d'imprimir els meus arxius?
 
-<summary><h2>Imprimim?</h2></summary>
+<h2>Imprimim?</h2>
 
 <p align="left">
   <img alt="ITIC Barcelona" src="./IMG/LOGOS/logoITICBCN.png" width="15%">

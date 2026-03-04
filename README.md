@@ -2,9 +2,8 @@
 
 <div style="display: flex; gap: 10px;">
   <img src="IMG/PRINT_TEST.gif" width="35%" />
+  <img src="IMG/print.gif" width="35%">
 </div>
-
----
 
 <details>
 <summary><h2>Processos subtractius vs additius</h2></summary>

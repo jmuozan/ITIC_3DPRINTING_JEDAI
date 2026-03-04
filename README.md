@@ -2,7 +2,7 @@
 
 <div style="display: flex; gap: 10px;">
   <img src="IMG/PRINT_TEST.gif" width="35%" />
-  <img src="IMG/print.gif" width="35%">
+  <img src="IMG/print.gif" width="55%">
 </div>
 
 <details>

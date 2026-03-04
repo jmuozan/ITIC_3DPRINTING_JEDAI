@@ -90,6 +90,7 @@
 ### [Programari](DOCUMENTS/5_PROGRAMARI.md) — Programes de modelat tridimensional i *slicing*
 ### [3D, Aspectes essencials](DOCUMENTS/6_CONSIDERACIONS.md) — Què cal tenir en compte a l'hora d'imprimir els meus arxius?
 
+</details>
 
 ## Imprimim?
 <p align="left">

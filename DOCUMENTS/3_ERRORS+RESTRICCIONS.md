@@ -47,6 +47,33 @@
 
 </details>
 
+<details>
+<summary><h2>Alçada de capa</h2></summary>
+
+![](./IMG/CONSIDERATIONS/finish.jpg)
+
+- [FabAcademy 3d printing week](https://academy.cba.mit.edu/classes/scanning_printing/index.html)
+
+</details>
+
+<details>
+<summary><h2>Infill</h2></summary>
+
+![](./IMG/CONSIDERATIONS/infill.jpg)
+
+- [FabAcademy 3d printing week](https://academy.cba.mit.edu/classes/scanning_printing/index.html)
+
+</details>
+
+<details>
+<summary><h2>Bridging</h2></summary>
+
+![](./IMG/CONSIDERATIONS/bridging.jpg)
+
+- [FabAcademy 3d printing week](https://academy.cba.mit.edu/classes/scanning_printing/index.html)
+
+</details>
+
 ---
 <p align="left">
   <img alt="ITIC Barcelona" src="../IMG/LOGOS/logoITICBCN.png" width="15%">

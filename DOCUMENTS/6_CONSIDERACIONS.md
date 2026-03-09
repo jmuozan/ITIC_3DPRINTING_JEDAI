@@ -1,35 +1,26 @@
 # Consideracions
 
-<details>
-<summary><h2>Mesh</h2></summary>
+## Mesh
 
-<details>
-<summary><h3>Formats</h3></summary>
+### Formats
 
 ```.stl``` ```.obj``` ```.fbx``` ```.gltf``` ```.3mf```
 
-</details>
-
-<details>
-<summary><h3>Subdivisions</h3></summary>
+### Subdivisions
 
 ![](./IMG/CONSIDERATIONS/cilindre.png)
 ![](./IMG/CONSIDERATIONS/cilindresub.png)
 ![](./IMG/CONSIDERATIONS/cilindresubtop.png)
 
-</details>
+---
 
-</details>
-
-<details>
-<summary><h2>Gcode</h2></summary>
+## Gcode
 
 CODI màquina de bits a àtoms. Moviments finits
 
 - [Info stl ASCII](../FORMES_BÀSIQUES/STL.md)
 
-<details>
-<summary><h3>G0 G1 G2 G3...</h3></summary>
+### G0 G1 G2 G3...
 
 ```
 G0 X10 Y10; moviment ràpid (sense extrusió)
@@ -45,10 +36,6 @@ M140 S60; temperatura llit
 - `G2/G3` — Moviment en arc (horari / antihorari)
 - `G28` — Anar a la posició d'origen
 - `M104/M140` — Establir temperatures
-
-</details>
-
-</details>
 
 ---
 <p align="left">
